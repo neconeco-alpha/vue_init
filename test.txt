@@ -1,0 +1,9 @@
+npm init -y
+npm i -D webpack webpack-cli
+npm i -D webpack-dev-server
+npm i -D style-loader
+npm i -D css-loader sass-loader sass
+npm i -D postcss-loader postcss
+npm i -D bootstrap
+
+npm i -D html-webpack-plugin html-loader
